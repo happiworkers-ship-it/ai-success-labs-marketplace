@@ -228,6 +228,98 @@ The ratio depends on where you are in your brand journey. Early on, lean broader
 
 ---
 
+## VIRAL POST MECHANICS
+
+Every post should be engineered for virality. Viral posts are not accidents — they follow specific structural patterns. Study the mechanics below and apply them to every post. **CRITICAL: These are PATTERNS and STRUCTURES only. Never copy language, hooks, or phrasing from any creator. Use the mechanics to write original content in the user's voice.**
+
+Each viral element works because it triggers one or more of these four things:
+
+- **Curiosity** — the reader needs to know what comes next
+- **Emotion** — the reader feels something (pride, frustration, recognition, hope)
+- **Relevance** — the reader sees themselves in the content
+- **Surprise** — the reader encounters something they did not expect
+
+If a hook or body section does not trigger at least one of these four, rewrite it until it does.
+
+### Viral Hook Patterns
+
+The hook is the single most important element. These six patterns consistently stop the scroll. Pick the one that fits the content — do not default to the same pattern every time.
+
+**1. Specific Result + System Tease**
+Open with a concrete, measurable result. Then tease the system or method that produced it. The parenthetical on line 3 creates a "content preview" that makes the reader stay.
+- Triggers: Curiosity + Relevance
+- Structure: `[Specific result]. [Proof it's real, not a flex]. ([Tease of the system that produced it] ↓)`
+- Example structure (not words to copy): "Someone did X. The result was Y. (Here's the system behind it ↓)"
+
+**2. Vulnerability + Self-Call-Out**
+Lead with an honest admission of failure or struggle. The self-awareness disarms the reader and builds instant trust. The turn comes when you reveal what you learned.
+- Triggers: Emotion + Surprise
+- Structure: `[Honest admission]. [Specific detail that makes it real]. [Turn — what changed]`
+
+**3. Result + Generosity Gap**
+State a valuable result you achieved, then immediately give away the method for free. The gap between the value and the price (free) creates tension that demands attention.
+- Triggers: Curiosity + Surprise
+- Structure: `[Impressive result]. [I just gave away exactly how]. [For free / what this normally costs]`
+
+**4. Data + Urgency**
+Open with a specific number, stat, or data point that creates urgency. The specificity makes it credible. The implication makes it personal.
+- Triggers: Relevance + Emotion
+- Structure: `[Specific data point]. [Why it matters to the reader]. [What most people are getting wrong]`
+
+**5. Contrarian + Specific Revenue**
+Challenge a commonly held belief, then back it up with specific financial proof. The contrarian angle gets attention; the revenue makes it undeniable.
+- Triggers: Surprise + Curiosity
+- Structure: `[Contrarian claim]. [Specific revenue or result]. [Why the conventional wisdom is wrong]`
+
+**6. Transformation Story**
+Before and after. The gap between where someone was and where they are now — especially when the transformation was fast or unexpected.
+- Triggers: Emotion + Relevance
+- Structure: `[Where they were]. [What changed]. [Where they are now]`
+
+### Viral Body Patterns
+
+The body must maintain the momentum the hook created. These patterns keep the reader scrolling:
+
+**Numbered Tips with Personality**
+Use `1/`, `2/`, `3/` formatting. Each numbered point has a bold claim followed by a specific, practical explanation. The personality comes from short editorial asides, real examples, and a conversational tone — not from emojis or exclamation marks.
+
+**Specific Tactical Bullets**
+List the unsexy, practical actions that actually produce results. No vague advice. Every line should be something the reader can do TODAY. Use `→` formatting.
+
+**Contrast Format (🚫 / ✅)**
+Show the wrong way and the right way side by side. This works because readers instantly recognise themselves in the "wrong" column and want to move to the "right" column.
+
+**Self-Deprecation + Receipts**
+Admit what you used to do wrong, then show the receipts of what happened when you changed. The vulnerability makes the proof more powerful, not less.
+
+**Before / After Comparisons**
+Show the gap between the old way and the new way. Be specific with both — vague "befores" weaken the contrast.
+
+### Viral Close Patterns
+
+The close determines whether the reader engages (comments, reposts, DMs) or just scrolls on.
+
+**Punchy One-Liner**
+End with a single sentence that lands like a full stop. No explanation. No softening. It should feel like the mic dropping.
+
+**Comment Trigger**
+Give the reader a specific word to comment. "Comment [WORD] and I'll send you [specific thing]." The specificity of the word makes it feel like a real exchange, not a generic CTA.
+
+**Full Circle Tie-Back**
+Return to the hook and close the loop. If you opened with a result, end by connecting that result back to the reader's potential. This creates a satisfying narrative arc that makes the whole post feel intentional.
+
+### How to Apply These Mechanics
+
+When writing any post:
+
+1. **Choose 1 hook pattern** based on the content and funnel stage. TOFU posts often work best with patterns 1, 2, or 6. MOFU posts work well with 3, 4, or 5. BOFU posts can use any pattern.
+2. **Choose 1-2 body patterns** that serve the content. Do not force a pattern that does not fit.
+3. **Choose 1 close pattern** — and combine it with the standard engagement CTA (question + repost line).
+4. **Check all four triggers** — does the post hit at least 2 of: curiosity, emotion, relevance, surprise? If not, the hook is too weak or the body is too generic. Rewrite.
+5. **Never copy.** These are structures, not scripts. Every word must be original and in the user's voice.
+
+---
+
 ## Industry Validation
 
 This framework is grounded in what the LinkedIn content industry teaches, not invented from thin air. Here's how it maps:
