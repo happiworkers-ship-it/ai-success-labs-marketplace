@@ -6,15 +6,15 @@
   },
   "metadata": {
     "description": "The official AI Success Labs plugin marketplace — student toolkit for the Brand Magnetism Accelerator. Frameworks, content engine, and visual prompts for building a magnetic LinkedIn brand with AI.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "brand-magnetism-starter",
       "source": "./plugins/brand-magnetism-starter",
-      "description": "The student starter kit for the Brand Magnetism Accelerator. Includes the 5-Day Brand Engine, Post Architecture, the LinkedIn Content Engine, image and infographic prompt generators, and a my-linkedin-voice template you customise to your own voice.",
-      "version": "1.0.0",
+      "description": "The student starter kit for the Brand Magnetism Accelerator. Includes the 5-Day Brand Engine, Post Architecture, the two-mode LinkedIn Content Engine, image and infographic prompt generators, LinkedIn competitor and social-media trend research skills (Apify), and a my-linkedin-voice template you customise to your own voice.",
+      "version": "1.1.0",
       "author": {
         "name": "Ngozi Cadmus — AI Success Labs",
         "email": "ngozicadmus@gmail.com"

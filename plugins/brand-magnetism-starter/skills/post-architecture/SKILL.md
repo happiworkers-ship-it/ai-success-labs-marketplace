@@ -1,6 +1,6 @@
 ---
 name: post-architecture
-description: "The Post Architecture: LinkedIn post structure framework (Hook → Develop → Deliver → Close) with entry point strategy and hook types. Use this skill whenever writing a LinkedIn post, structuring post content, choosing a hook, planning post flow, or deciding between broad and niche entry. Also use when the user asks about post structure, hook formulas, how to open a post, how to build a post body, or how to close a post. This skill defines the STRUCTURE of a post — use it alongside the ngozi-linkedin-posts skill (which defines VOICE and STYLE) and the 5-day-brand-engine skill (which defines WHAT to post each day)."
+description: "The Post Architecture: LinkedIn post structure framework (Hook → Develop → Deliver → Close) with entry point strategy and hook types. This is the STRUCTURE layer of the content system — the authoritative source for hook types, the Hook → Develop → Deliver → Close arc, entry points, and closes. The linkedin-content-engine loads it when writing posts. Use it directly when structuring post content, choosing a hook, planning post flow, or deciding between broad and niche entry. Also use when the user asks about post structure, hook formulas, how to open a post, how to build a post body, or how to close a post. This skill defines the STRUCTURE of a post — use it alongside the my-linkedin-voice skill (which defines YOUR voice and style) and the 5-day-brand-engine skill (which defines WHAT to post each day)."
 ---
 
 # The Post Architecture
@@ -18,7 +18,7 @@ The architecture follows what the industry teaches — but adds three things the
 ## How This Skill Relates to Other Skills
 
 - **Post Architecture** (this skill) = the STRUCTURE of a post (how it flows from opening to close)
-- **ngozi-linkedin-posts** = the VOICE and STYLE (how it sounds, formatting rules, Ngozi's language)
+- **my-linkedin-voice** = the VOICE and STYLE (how it sounds, your formatting rules, your language)
 - **5-day-brand-engine** = the STRATEGY (what type of post to write on which day, TOFU/MOFU/BOFU mapping)
 
 Use all three together for the complete system.
@@ -31,7 +31,9 @@ Every LinkedIn post follows four stages. This is the skeleton — the stages are
 
 ### Stage 1: HOOK (Stop the Scroll)
 
-The opening line. 12 words maximum. Its only job is to make someone stop scrolling and read line two.
+The opening line. Aim for 12 words or fewer (~55 characters — the LinkedIn fold) — its only job is to make someone stop scrolling and read line two. This is a strong default, not a law: a hook that sounds like the writer actually talking beats a hook that hits the word count. Speech first, structure second.
+
+Note: personality-led posts (rants, hot takes, roast lists) may drop this arc entirely and run on conversational cadence, with the structure invisible or absent. That is intentional, not a mistake.
 
 Before choosing your hook type, make a strategic decision about your **entry point** (see Entry Point Strategy below). Then select from these five hook types:
 

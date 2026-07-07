@@ -1,7 +1,7 @@
 ---
 name: 5-day-brand-engine
 description: |
-  Ngozi Cadmus's 5-Day Brand Engine — the Monday-to-Friday LinkedIn content strategy framework for AI Success Labs. Use this skill whenever the user asks about content planning, weekly content strategy, what to post on which day, content calendars, content types for LinkedIn, TOFU/MOFU/BOFU strategy, or needs help planning their weekly LinkedIn content. Also trigger when someone asks "what should I post today?", "what type of post should I write?", "help me plan my content for the week", or anything about organising LinkedIn content across the week. This skill contains the complete 5-Day Brand Engine framework with all daily content types, principles, and the strategy behind each day. ALWAYS use this skill for any weekly content planning or content type decisions — it is the backbone of the Brand Magnetism Accelerator programme.
+  Ngozi Cadmus's 5-Day Brand Engine — the Monday-to-Friday LinkedIn content strategy framework for AI Success Labs. Use this skill whenever the user asks about content planning, weekly content strategy, what to post on which day, content calendars, content types for LinkedIn, TOFU/MOFU/BOFU strategy, or needs help planning their weekly LinkedIn content. Also trigger when someone asks "what should I post today?", "what type of post should I write?", "help me plan my content for the week", or anything about organising LinkedIn content across the week. This skill contains the complete 5-Day Brand Engine framework with all daily content types, principles, and the strategy behind each day. ALWAYS use this skill for any weekly content planning or content type decisions — it is the backbone of the Brand Magnetism Accelerator programme. This skill owns PLANNING and STRATEGY. When the user wants an actual post written, the linkedin-content-engine orchestrates and reads this skill for the day's strategy.
 ---
 
 # The 5-Day Brand Engine
@@ -214,4 +214,4 @@ When someone asks for a full week plan:
 4. **Include one personal story** (Tuesday).
 5. **Suggest formats** — which posts should be text-only, which should be carousels, which need photos.
 
-This skill works alongside the `ngozi-linkedin-posts` skill. The 5-Day Brand Engine decides WHAT type of content to create on which day. The LinkedIn posts skill handles HOW to write the actual post (voice, structure, hooks, formatting).
+This skill is one layer of the content system, orchestrated by the `linkedin-content-engine`: the 5-Day Brand Engine decides WHAT to post on which day, `post-architecture` decides HOW to structure it, and your `my-linkedin-voice` skill provides the voice. Use TOFU/MOFU/BOFU as the funnel labels throughout (TOFU = Awareness, MOFU = Trust, BOFU = Conversion).

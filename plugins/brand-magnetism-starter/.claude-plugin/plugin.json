@@ -1,7 +1,7 @@
 {
   "name": "brand-magnetism-starter",
-  "description": "The student starter kit for the Brand Magnetism Accelerator by Ngozi Cadmus. Bundles the 5-Day Brand Engine, Post Architecture, the LinkedIn Content Engine, image and infographic prompt generators, and a my-linkedin-voice template you customise to your own voice.",
-  "version": "1.0.0",
+  "description": "The student starter kit for the Brand Magnetism Accelerator by Ngozi Cadmus. Bundles the 5-Day Brand Engine, Post Architecture, the two-mode LinkedIn Content Engine, image and infographic prompt generators, LinkedIn competitor and social-media trend research skills (Apify), and a my-linkedin-voice template you customise to your own voice.",
+  "version": "1.1.0",
   "author": {
     "name": "Ngozi Cadmus — AI Success Labs",
     "email": "ngozicadmus@gmail.com"
