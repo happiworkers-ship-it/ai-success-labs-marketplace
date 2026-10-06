@@ -1,0 +1,21 @@
+{
+  "name": "engagement-engine",
+  "description": "The engagement add-on for the Brand Magnetism Accelerator by Ngozi Cadmus. Two skills you customise to your own voice and offer: my-linkedin-comments for strategic commenting on other people's posts, and my-dm-responder for turning DM conversations into clients without chasing. Requires my-linkedin-voice from brand-magnetism-starter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ngozi Cadmus — AI Success Labs",
+    "email": "ngozicadmus@gmail.com"
+  },
+  "homepage": "https://aisuccesslabs.com/brand-magnetism-accelerator",
+  "repository": "https://github.com/happiworkers-ship-it/ai-success-labs-marketplace",
+  "license": "UNLICENSED",
+  "keywords": [
+    "linkedin",
+    "commenting",
+    "dm",
+    "sales",
+    "nurture",
+    "brand-magnetism-accelerator",
+    "ai-success-labs"
+  ]
+}
